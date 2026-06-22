@@ -1,6 +1,6 @@
 # ==========================================
 # AI-Based Multi Student Face Attendance System
-# Developed by Ishra Rehman
+
 # ==========================================
 
 import cv2
