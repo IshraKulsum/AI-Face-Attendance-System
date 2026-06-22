@@ -1,1 +1,12 @@
- this will contain the images that the model will recogise so plese uplode your studets images here 
+Store reference images of all registered students here.
+
+Naming Rule:
+- File name = Student Name
+- Example:
+    Ishra.jpeg
+    Afra Tarannum.jpeg
+    Ashwini B.jpeg
+
+ we are using file name as student name as the name is reflected in the csv excel file
+
+The system automatically loads all images from this directory and uses them for face recognition.
